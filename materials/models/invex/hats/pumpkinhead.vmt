@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/invex/hats/pumpkinhead.vtf"
+	"$phong" "1"
+	"$phongexponent" "150"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[0 1 4]"
+	"$basemapalphaphongmask" "1"
+
+	"$selfillum" "1"
+	"$selfillumtint" "[100 100 100]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"
+	"$rimlightboost" "2"
+}

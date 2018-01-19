@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/invex/hats/supersaiyan.vtf"
+	"$bumpmap"     "models/invex/hats/supersaiyan_n"
+	"$model" 1
+	"$phong" "1"
+	"$lightwarptexture" "models/invex/hats/lightwarp2"
+	"$halflambert" 1
+}

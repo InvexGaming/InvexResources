@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/invex/hats/mc"
+	"$bumpmap" "models/invex/hats/mc_normal"
+}

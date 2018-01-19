@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/invex/hats/toromask"
+	"$nocull" 1
+}

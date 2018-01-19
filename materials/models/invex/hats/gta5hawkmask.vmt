@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/invex/hats/gta5hawkmask"
+  "$model" 1
+}

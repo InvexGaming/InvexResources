@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/invex/hats/afro_pick"
+	"$model" 1
+	"$translucent" 1
+}

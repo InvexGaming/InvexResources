@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/invex/hats/pedobear"
+	"$bumpmap"     "models/invex/hats/pedobear_normal"
+	"$model" 1
+	"$phong" "1"
+	"$lightwarptexture" "models/invex/hats/lightwarp2"
+	"$halflambert" 1
+}

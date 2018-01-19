@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/invex/hats/drinkcap"
+	"$bumpmap" "models/invex/hats/drinkcap_n"
+	"$model" 1
+	"$nocull" 1
+	"$phong" "1"
+	"$phongexponenttexture" "models/invex/hats/drinkcap_p"
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+}

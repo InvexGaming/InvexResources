@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	$baseTexture "models/invex/hats/jester.vtf"
+	"$phong" "1"
+	"$phongexponent" "150"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[0 1 5]"
+	"$basemapalphaphongmask" "1"
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "5"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "1"
+}

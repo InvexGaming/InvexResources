@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+  $basetexture "models/invex/hats/poop"
+  $bumpmap "models/invex/hats/poop_bump"
+  $ssbump 1
+}

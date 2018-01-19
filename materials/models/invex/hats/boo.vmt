@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	$baseTexture "models/invex/hats/boo.vtf"
+	"$phong" "1"
+	"$phongexponent" "150"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[0 1 4]"
+	"$basemapalphaphongmask" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"
+	"$rimlightboost" "2"
+}

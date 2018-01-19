@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/invex/hats/Mudkip"
+	"$halflambert"	"1"
+}
