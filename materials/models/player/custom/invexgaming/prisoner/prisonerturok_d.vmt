@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/custom/invexgaming/prisoner/PrisonerTurok_D"
+        "$bumpmap"		"models/player/custom/invexgaming/prisoner/PrisonerTurok_N"
+         "$phongexponenttexture"	"models/player/custom/invexgaming/prisoner/PrisonerTurok_S"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 0.3
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ 0.36 0.36 0.36 ]"
+}

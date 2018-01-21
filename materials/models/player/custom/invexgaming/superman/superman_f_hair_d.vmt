@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/custom/invexgaming/superman/Superman_F_Hair_D"
+	"$bumpmap" "models/player/custom/invexgaming/superman/Superman_F_Hair_N"
+
+	"$phong" "1"
+	"$phongboost" ".2"
+	"$phongexponent" "20"
+	"$phongfresnelranges" "[.5 2 8]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "35"
+	"$rimlightboost" ".35"
+}
