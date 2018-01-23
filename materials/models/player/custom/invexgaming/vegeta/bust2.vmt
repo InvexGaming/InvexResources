@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom/invexgaming/vegeta/bust2"
+
+
+	$phong 1
+	$phongexponent 30
+	$phongboost .005
+	$phongfresnelranges "[5 6 8]"
+				
+}

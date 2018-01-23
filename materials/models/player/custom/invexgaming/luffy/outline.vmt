@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/custom/invexgaming/luffy/outline"
+
+
+	"$rimlight" "1"
+	"$rimlightexponent" "35"
+	"$rimlightboost" ".35"
+}

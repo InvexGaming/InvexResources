@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/custom/invexgaming/luffy/eyeunder_d"
+
+
+	"$rimlight" "1"
+	"$rimlightexponent" "35"
+	"$rimlightboost" ".35"
+}
